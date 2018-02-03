@@ -1,0 +1,8 @@
+{
+  "Email":"EMAIL@hotmail.com",
+  "Senha":"SENHA",
+  "Porta": 587,
+  "DorkGoogle": "intext:\"@gmail.com\"+intext:\"@hotmail.com\"+\"intext:\"@yahoo.com.br\"",
+  "Smtp": "smtp-mail.outlook.com",
+  "MaxThreads" :  150
+}
